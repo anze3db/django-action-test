@@ -1,2 +1,2 @@
-django < 4.0
+django < 5.0
 selenium-testing-library < 2023.6
